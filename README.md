@@ -1,7 +1,5 @@
-
 ---
 ## Standard Functions
-\
 $$\frac{d}{dx}\ \left[\ c\ \right]\ =\ 0$$
 \
 $$\frac{d}{dx}\ \left[\ bx\ \right]\ =\ b$$
@@ -15,7 +13,9 @@ $$\frac{d}{dx}\ \left[\ b^{x}\ \right]\ =\ b^{x}\ln(x)$$
 $$\frac{d}{dx}\ \left[\ \ln(bx)\ \right]\ =\ \frac{1}{x}$$
 \
 $$\frac{d}{dx}\ \left[\ \log_b(x)\ \right]\ =\ \frac{1}{x\ln(b)}$$
+
 ---
+
 ## Trig Functions
 \
 $$\frac{d}{dx}\ \left[\ \sin({u})\ \right]\ =\ \cos({u})*u'$$
@@ -29,7 +29,9 @@ $$\frac{d}{dx}\ \left[\ \csc({u})\ \right]\ =\ -\cot({u})\csc({u})*u'$$
 $$\frac{d}{dx}\ \left[\ \sec({u})\ \right]\ =\ \tan({u})\sec({u})*u'$$
 \
 $$\frac{d}{dx}\ \left[\ \cot({u})\ \right]\ =\ -\csc^{2}({u})*u'$$
+
 ---
+
 ## Inverse Trig Functions
 \
 $$\frac{d}{dx}\ \left[\ \sin^{-1}({u})\ \right]\ =\ \frac{u'}{\sqrt{1-u^{2}}}$$
@@ -43,7 +45,9 @@ $$\frac{d}{dx}\ \left[\ \csc^{-1}({u})\ \right]\ =\ -\frac{u'}{u^{2}\sqrt{1-\fra
 $$\frac{d}{dx}\ \left[\ \sec^{-1}({u})\ \right]\ =\ \frac{u'}{u^{2}\sqrt{1-\frac{1}{u^{2}}}}$$
 \
 $$\frac{d}{dx}\ \left[\ \cot^{-1}({u})\ \right]\ =\ -\frac{u'}{u^{2}+1}$$
+
 ---
+
 ## Rules of Derivations of Functions
 \
 $$\frac{d}{dx}\ \left[\ f(x)+g(x)\ \right]\ =\ \frac{d}{dx}f(x)+\frac{d}{dx}g(x)$$
@@ -61,6 +65,7 @@ $$\frac{d}{dx}\ \left[\ u^{x}\ \right]\ =\ u^{x}\left(\frac{xu'}{u}+\ln({u})\rig
 $$\frac{d}{dx}\ \left[\ u^{k}\ \right]\ =\ u^{k-1}\left(ku'+u\ln({u})k'\right)$$
 
 ---
+
 ### Standard Function Specific Cases
 \
 $$\frac{d}{dx}\ \left[\ \sqrt{x}\ \ \right]\ =\ \frac{1}{2\sqrt{x}}$$
