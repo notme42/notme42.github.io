@@ -1,7 +1,7 @@
 
 ---
 ## Standard Functions
-\ 
+
 $$\frac{d}{dx}\ \left[\ c\ \right]\ =\ 0$$
 \
 $$\frac{d}{dx}\ \left[\ bx\ \right]\ =\ b$$
