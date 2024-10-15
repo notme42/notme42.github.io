@@ -7,17 +7,17 @@ $$\frac{d}{dx}\ \left[\ c\ \right]\ =\ 0$$
 $$\frac{d}{dx}\ \left[\ bx\ \right]\ =\ b$$
 
 $$\frac{d}{dx}\ \left[\ x^{b}\ \right]\ =\ bx^{b-1}$$
-\
+
 $$\frac{d}{dx}\ \left[\ \frac{1}{x^{b}}\ \right]\ =\ -\frac{1}{x^{b+1}}$$
-\
+
 $$\frac{d}{dx}\ \left[\ b^{x}\ \right]\ =\ b^{x}\ln(x)$$
-\
+
 $$\frac{d}{dx}\ \left[\ \ln(bx)\ \right]\ =\ \frac{1}{x}$$
-\
+
 $$\frac{d}{dx}\ \left[\ \log_b(x)\ \right]\ =\ \frac{1}{x\ln(b)}$$
 ---
 ## Trig Functions
-\
+
 $$\frac{d}{dx}\ \left[\ \sin({u})\ \right]\ =\ \cos({u})*u'$$
 \
 $$\frac{d}{dx}\ \left[\ \cos({u})\ \right]\ =\ -\sin({u})*u'$$
