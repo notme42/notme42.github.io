@@ -61,6 +61,10 @@ $$\frac{d}{dx}\ \left[\ u^{x}\ \right]\ =\ u^{x}\left(\frac{xu'}{u}+\ln({u})\rig
 $$\frac{d}{dx}\ \left[\ u^{k}\ \right]\ =\ u^{k-1}\left(ku'+u\ln({u})k'\right)$$
 
 ---
-### Standard Function Specific Cases
+### Specific Cases
 \
 $$\frac{d}{dx}\ \left[\ \sqrt{x}\ \ \right]\ =\ \frac{1}{2\sqrt{x}}$$
+\
+$$\frac{d}{dx}\ \left[\ \ln({\pm\sin({u})})\ \right]\ =\ \cot({u})*u'$$
+\
+$$\frac{d}{dx}\ \left[\ \ln({\pm\cos({u})})\ \right]\ =\ -\tan({u})*u'$$
