@@ -20,10 +20,10 @@ $$\frac{d}{dx}\ \left[\ \frac{1}{x^{c}}\ \right]\ =\ -\frac{1}{x^{c+1}}$$
 $$\frac{d}{dx}\ \left[\ c^{x}\ \right]\ =\ c^{x}\ln(c)$$
 <br/>
 <br/>
-$$\frac{d}{dx}\ \left[\ \ln(cx)\ \right]\ =\ \frac{1}{x}$$
+$$\frac{d}{dx}\ \left[\ \ln(u)\ \right]\ =\ \frac{u'}{u}$$
 <br/>
 <br/>
-$$\frac{d}{dx}\ \left[\ \log_c(x)\ \right]\ =\ \frac{1}{x\ln(c)}$$
+$$\frac{d}{dx}\ \left[\ \log_c(u)\ \right]\ =\ \frac{u'}{u\ln(c)}$$
 <br/>
 <br/>
 ---
