@@ -4,10 +4,10 @@
 ###### Working on a table of contents
 ---
 ###### Key:
-###### &nbsp;&nbsp;`c`:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; is a constant.  not an equation. not some formula dependant on x. a simple number.
-###### &nbsp;&nbsp;`x`:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; is just x.  plain old x.
-###### &nbsp;&nbsp;`u`:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; is an expression.  basically a function, except without the parenthesis.  derivative is noted by `u`'
-###### `f(x)` / `g(x)`:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; arbitrary functions of x.  
+###### &nbsp;&nbsp;`c`:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a constant.not an equation. &nbsp;not some formula dependant on x. &nbsp;just good old fashioned x.
+###### &nbsp;&nbsp;`x`:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; is just x. &nbsp;plain old x.
+###### &nbsp;&nbsp;`u`:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; is an expression. &nbsp;basically a function, &nbsp;except without the parenthesis. &nbsp;derivative is noted by `u`'
+###### `f(x)` / `g(x)`:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; arbitrary functions of x. &nbsp;derivative can be noted as `f'(x)` or `d/dx [ f(x) ]`
 ---
 # Differentiation Formulas / Equivalencies
 ## Standard Functions
