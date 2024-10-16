@@ -45,6 +45,7 @@ $$\frac{d}{dx}\ \left[\ \cot({u})\ \right]\ =\ -\csc^{2}({u})*u'$$
 <br/>
 ---
 # Inverse Trig Functions
+\
 $$\frac{d}{dx}\ \left[\ \sin^{-1}({u})\ \right]\ =\ \frac{u'}{\sqrt{1-u^{2}}}$$
 <br/>
 <br/>
