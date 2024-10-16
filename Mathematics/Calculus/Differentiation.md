@@ -22,7 +22,6 @@ $$\frac{d}{dx}\ \left[\ \log_c(x)\ \right]\ =\ \frac{1}{x\ln(c)}$$
 <br/>
 <br/>
 ---
-<br/>
 # Trig Functions
 <br/>
 $$\frac{d}{dx}\ \left[\ \sin({u})\ \right]\ =\ \cos({u})*u'$$
@@ -44,7 +43,6 @@ $$\frac{d}{dx}\ \left[\ \cot({u})\ \right]\ =\ -\csc^{2}({u})*u'$$
 <br/>
 <br/>
 ---
-<br/>
 # Inverse Trig Functions
 <br/>
 $$\frac{d}{dx}\ \left[\ \sin^{-1}({u})\ \right]\ =\ \frac{u'}{\sqrt{1-u^{2}}}$$
@@ -66,7 +64,6 @@ $$\frac{d}{dx}\ \left[\ \cot^{-1}({u})\ \right]\ =\ -\frac{u'}{u^{2}+1}$$
 <br/>
 <br/>
 ---
-<br/>
 # Rules of Derivations of Functions
 <br/>
 $$\frac{d}{dx}\ \left[\ f(x)+g(x)\ \right]\ =\ \frac{d}{dx}f(x)+\frac{d}{dx}g(x)$$
@@ -91,7 +88,6 @@ $$\frac{d}{dx}\ \left[\ u^{k}\ \right]\ =\ u^{k-1}\left(ku'+u\ln({u})k'\right)$$
 <br/>
 <br/>
 ---
-<br/>
 # Specific Cases
 <br/>
 $$\frac{d}{dx}\ \left[\ \sqrt{x}\ \ \right]\ =\ \frac{1}{2\sqrt{x}}$$
