@@ -1,7 +1,7 @@
 ---
 ###### Be aware this is a work in progress
-###### I'm 99% confident that these formulas are correct, but if they aren't it's not my fault you're using them
-###### Working on a table of contents
+###### I'm 99% confident that these formulas are correct, but if they aren't and you use them and get something wrong it's not my fault, you're the one who chose to use this.
+###### I'm working on a table of contents so you can get to what you want to see faster
 ---
 ###### Key:
 ###### &nbsp;&nbsp;`c`:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a constant.not an equation. &nbsp;not some formula dependant on x. &nbsp;just good old fashioned x.
@@ -109,7 +109,7 @@ $$\frac{d}{dx}\ \left[\ \ln({\pm\cos({u})})\ \right]\ =\ -\tan({u})*u'$$
 ---
 # Implicit Differentiation
 ## How to do it
-\- under construction -
+\-  &nbsp;u n d e r &nbsp;  &nbsp;c o n s t r u c t i o n  &nbsp;-
 ## A few examples
-\- under construction -
+\-  &nbsp;u n d e r &nbsp;  &nbsp;c o n s t r u c t i o n  &nbsp;-
 
