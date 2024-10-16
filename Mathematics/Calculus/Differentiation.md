@@ -5,7 +5,6 @@
 
 # Differentiation Formulas / Equivalencies
 ## Standard Functions
-\
 $$\frac{d}{dx}\ \left[\ c\ \right]\ =\ 0$$
 <br/>
 <br/>
