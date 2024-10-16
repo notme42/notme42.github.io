@@ -1,5 +1,6 @@
 ---
 # Standard Functions
+\
 $$\frac{d}{dx}\ \left[\ c\ \right]\ =\ 0$$
 <br/>
 <br/>
@@ -23,7 +24,7 @@ $$\frac{d}{dx}\ \left[\ \log_c(x)\ \right]\ =\ \frac{1}{x\ln(c)}$$
 <br/>
 ---
 # Trig Functions
-<br/>
+\
 $$\frac{d}{dx}\ \left[\ \sin({u})\ \right]\ =\ \cos({u})*u'$$
 <br/>
 <br/>
@@ -44,7 +45,6 @@ $$\frac{d}{dx}\ \left[\ \cot({u})\ \right]\ =\ -\csc^{2}({u})*u'$$
 <br/>
 ---
 # Inverse Trig Functions
-<br/>
 $$\frac{d}{dx}\ \left[\ \sin^{-1}({u})\ \right]\ =\ \frac{u'}{\sqrt{1-u^{2}}}$$
 <br/>
 <br/>
@@ -65,7 +65,7 @@ $$\frac{d}{dx}\ \left[\ \cot^{-1}({u})\ \right]\ =\ -\frac{u'}{u^{2}+1}$$
 <br/>
 ---
 # Rules of Derivations of Functions
-<br/>
+\
 $$\frac{d}{dx}\ \left[\ f(x)+g(x)\ \right]\ =\ \frac{d}{dx}f(x)+\frac{d}{dx}g(x)$$
 <br/>
 <br/>
@@ -89,7 +89,7 @@ $$\frac{d}{dx}\ \left[\ u^{k}\ \right]\ =\ u^{k-1}\left(ku'+u\ln({u})k'\right)$$
 <br/>
 ---
 # Specific Cases
-<br/>
+\
 $$\frac{d}{dx}\ \left[\ \sqrt{x}\ \ \right]\ =\ \frac{1}{2\sqrt{x}}$$
 <br/>
 <br/>
