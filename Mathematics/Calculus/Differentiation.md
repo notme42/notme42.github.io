@@ -1,8 +1,14 @@
+---
 ###### Be aware this is a work in progress
 ###### I'm 99% confident that these formulas are correct, but if they aren't it's not my fault you're using them
 ###### Working on a table of contents
-
-
+---
+###### Key:
+###### \ \ `c`: is a constant.\ \ not an equation. not some formula dependant on x. a simple number.
+###### \ \ `x`: is just x.\ \ plain old x.
+###### \ \ `u`: is an expression.\ \ basically a function, except without the parenthesis.  derivative is noted by `u`'
+###### \ \ `f(x)` / `g(x)`: arbitrary functions of x.  
+---
 # Differentiation Formulas / Equivalencies
 ## Standard Functions
 $$\frac{d}{dx}\ \left[\ c\ \right]\ =\ 0$$
