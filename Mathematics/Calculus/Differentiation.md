@@ -1,4 +1,9 @@
-# Formulas
+###### Be aware this is a work in progress
+###### I'm 99% confident that these formulas are correct, but if they aren't it's not my fault you're using them
+###### Working on a table of contents
+
+
+# Differentiation Formulas / Equivalencies
 ---
 ## Standard Functions
 \
