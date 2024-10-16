@@ -23,7 +23,8 @@ $$\frac{d}{dx}\ \left[\ \ln(cx)\ \right]\ =\ \frac{1}{x}$$
 $$\frac{d}{dx}\ \left[\ \log_c(x)\ \right]\ =\ \frac{1}{x\ln(c)}$$
 \
 \
----
+\
+<hr>
 ## Trig Functions
 \
 $$\frac{d}{dx}\ \left[\ \sin({u})\ \right]\ =\ \cos({u})*u'$$
