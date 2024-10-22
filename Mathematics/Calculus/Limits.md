@@ -1,5 +1,5 @@
 ---
-###### Be aware this is a work in progress
+###### Be aware **this is a work in progress**
 ###### I'm 99% confident that these formulas are correct, &nbsp;but if they aren't and you use them and get something wrong it's not my fault, &nbsp;you're the one who chose to use this.
 ###### I'm working on a table of contents so you can get to what you want to see faster
 ---
