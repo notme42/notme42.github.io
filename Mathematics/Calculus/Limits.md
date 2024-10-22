@@ -10,4 +10,4 @@
 ###### `f(x)` / `g(x)`:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; arbitrary functions of x. &nbsp;derivative can be noted as `f'(x)` or `d/dx [ f(x) ]`
 ---
 
-$$\lim_{x\to\infinity}$$
+$$\lim_{x\to0}{\ln({x})}$$
