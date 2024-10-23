@@ -4,10 +4,10 @@
 ###### I'm working on a table of contents so you can get to what you want to see faster
 ---
 ###### Key:
-###### &nbsp;&nbsp;`a` / `c` / `n`:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a constant. &nbsp;not an equation. &nbsp;not some formula dependant on x. &nbsp;just good old fashioned x.
+###### &nbsp;&nbsp;`a` / `b` / `c`:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a constant. &nbsp;not an equation. &nbsp;not some formula dependant on x. &nbsp;just good old fashioned x.
 ###### &nbsp;&nbsp;`x`:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; just x. &nbsp;plain old x.
 ###### &nbsp;&nbsp;`u` / `k`:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; an expression. &nbsp;basically a function, &nbsp;except without the parenthesis. &nbsp;derivative is noted by `u'`
 ###### `f(x)` / `g(x)`:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; arbitrary functions of x. &nbsp;derivative can be noted as `f'(x)` or `d/dx [ f(x) ]`
 ---
 
-$$\lim_{x\to a}{\frac{x-a}{x^{n}-a^{n}}}\ =\ \frac{1}{2n}$$
+$$\lim_{x\to a}{\frac{x-a}{x^{b}-a^{b}}}\ =\ \frac{1}{2n}$$
