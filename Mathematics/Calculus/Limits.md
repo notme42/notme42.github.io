@@ -13,4 +13,4 @@
 $$\lim_{x\to0}{\frac{f(x)}{g(x)}}$$
 
 
-$$\lim_{x\toa}{\frac{x-a}{x^{n}-a^{n}}}\ =\ \frac{1}{2n}$$
+$$\lim_{x\to a}{\frac{x-a}{x^{n}-a^{n}}}\ =\ \frac{1}{2n}$$
