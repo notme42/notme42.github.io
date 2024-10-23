@@ -10,4 +10,4 @@
 ###### `f(x)` / `g(x)`:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; arbitrary functions of x. &nbsp;derivative can be noted as `f'(x)` or `d/dx [ f(x) ]`
 ---
 
-$$\lim_{x\to a}{\frac{x-a}{x^{b}-a^{b}}}\ =\ \frac{1}{2n}$$
+$$\lim_{x\to a}{\frac{x-a}{x^{b}-a^{b}}}\ =\ \frac{1}{ba^{b-1}}$$
