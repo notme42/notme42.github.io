@@ -11,3 +11,5 @@
 ---
 
 $$\lim_{x\to a}{\frac{x-a}{x^{b}-a^{b}}}\ =\ \frac{1}{ba^{b-1}}$$
+
+$$\lim_{x\to a}{\frac{\sqrt{x}-\sqrt{a}}{x-a}}\ =\ \frac{1}{2\sqrt{a}}$$
